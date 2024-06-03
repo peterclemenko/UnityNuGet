@@ -700,6 +700,18 @@
     "listed": true,
     "version": "2.0.0"
   },
+  "Microsoft.Data.Analysis": {
+    "listed": true,
+    "version": "0.21.1"
+  },
+  "Microsoft.ML.DataView": {
+    "listed": true,
+    "version": "3.0.1"
+  },
+  "Apache.Arrow": {
+    "listed": true,
+    "version": "16.1.0"
+  },
   "Microsoft.DotNet.PlatformAbstractions": {
     "listed": true,
     "version": "3.1.0",
@@ -1468,7 +1480,7 @@
   },
   "System.Memory": {
     "listed": true,
-    "version": "4.5.0"
+    "version": "4.5.5"
   },
   "System.Net.Http.WinHttpHandler": {
     "listed": true,
