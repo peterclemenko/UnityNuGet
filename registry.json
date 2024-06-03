@@ -467,6 +467,30 @@
     "listed": true,
     "version": "3.8.0"
   },
+  "GraphQL ": {
+    "listed": true,
+    "version": "7.8.0"
+  },
+  "GraphQL.DataLoader": {
+    "listed": true,
+    "version": "7.8.0"
+  },
+  "GraphQL.MicrosoftDI": {
+    "listed": true,
+    "version": "7.8.0"
+  },
+  "GraphQL.SystemTextJson": {
+    "listed": true,
+    "version": "7.8.0"
+  },
+  "GraphQL.MemoryCache": {
+    "listed": true,
+    "version": "7.8.0"
+  },
+  "GraphQL.NewtonsoftJson": {
+    "listed": true,
+    "version": "7.8.0"
+  },
   "Grpc.Core": {
     "listed": true,
     "version": "1.20.0"
